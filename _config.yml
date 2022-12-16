@@ -6,26 +6,26 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: José Brest
+title: QA Automation
+email: josebrest@gmail.com
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  brestja
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+linkedin_username: José Brest
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,10 +48,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  Soy un ingeniero en automatización y documentación con experiencia en el campo de la ingeniería de datos. Me especialicé en esta área a través de mi formación académica y mi experiencia profesional en varias empresas de tecnología.
+  Mi pasión por la automatización y la documentación comenzó cuando me di cuenta de la importancia que tienen estas habilidades en el desarrollo eficiente y sostenible de proyectos de ingeniería de datos. A través de mis estudios y mi trabajo, he adquirido una sólida comprensión de las herramientas y técnicas necesarias para automatizar procesos y crear documentación clara y detallada.
+  En mi actual trabajo, utilizo mis habilidades en automatización y documentación para ayudar a mi equipo a desarrollar proyectos de ingeniería de datos de manera eficiente y sostenible. Estoy siempre buscando maneras de mejorar nuestros procesos y ayudar a mis compañeros a entender mejor nuestro trabajo.
+  Creo que puedo sumar valor a cualquier equipo de ingeniería de datos gracias a mi experiencia y habilidades en automatización y documentación. Estoy dispuesto a trabajar duro y aprender constantemente para seguir mejorando en mi campo y contribuir al éxito de cualquier equipo en el que forme parte.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
