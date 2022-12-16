@@ -9,7 +9,7 @@ version: 2
 name: José Brest
 title: QA Automation
 email: josebrest@gmail.com
-website: www.github.com/sproogen/resume-theme
+#website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -22,7 +22,7 @@ github_username:  brestja
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: José Brest
+linkedin_username: Jose Brest
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
