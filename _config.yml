@@ -52,27 +52,8 @@ about_content: | # this will include new lines to allow paragraphs
   Mi pasión por la automatización y la documentación comenzó cuando me di cuenta de la importancia que tienen estas habilidades en el desarrollo eficiente y sostenible de proyectos de ingeniería de datos. A través de mis estudios y mi trabajo, he adquirido una sólida comprensión de las herramientas y técnicas necesarias para automatizar procesos y crear documentación clara y detallada.
   En mi actual trabajo, utilizo mis habilidades en automatización y documentación para ayudar a mi equipo a desarrollar proyectos de ingeniería de datos de manera eficiente y sostenible. Estoy siempre buscando maneras de mejorar nuestros procesos y ayudar a mis compañeros a entender mejor nuestro trabajo.
   Creo que puedo sumar valor a cualquier equipo de ingeniería de datos gracias a mi experiencia y habilidades en automatización y documentación. Estoy dispuesto a trabajar duro y aprender constantemente para seguir mejorando en mi campo y contribuir al éxito de cualquier equipo en el que forme parte.
-#content:
-  #- title: Projects # Title for the section
-    #layout: list # Type of content section (list/text)
-    #content:
-     # - layout: top-middle
-      #  title: Super awesome project
-       # link: github.com/sproogen
-        # link_text: Project Website
-        #additional_links:
-         # - title:  sproogen/modern-resume-theme
-          #  icon: fab fa-github
-           # url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        #quote: >
-         # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        #description: | # this will include new lines to allow paragraphs
-         # I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Experience # Title for the section
+- title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
