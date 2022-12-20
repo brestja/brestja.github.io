@@ -74,7 +74,20 @@ content:
             Mantener la documentación de las APIs actualizada y asegurar que sigue siendo precisa y relevante a medida que el código evoluciona.
             Proporcionar soporte técnico a otros equipos que utilicen nuestras APIs y ayudarles a integrarlas en sus propios sistemas y proyectos.
             En resumen, mi trabajo como ingeniero de documentación de APIs implica asegurar que nuestras APIs sean fáciles de usar y entender para otros equipos y desarrolladores, y que su correcto funcionamiento sea verificado y garantizado a través de pruebas y validaciones adecuadas.
+            
+            Como ingeniero de documentación y automatización de pipelines de datos, mis principales tareas incluyen:
 
+Diseñar y crear documentación detallada para los pipelines de datos existentes y futuros. Esto incluye especificar el flujo de datos, los distintos componentes y procesos, así como los parámetros de entrada y salida.
+
+Utilizar herramientas como Zapier, Integromat y n8n para automatizar los pipelines de datos y asegurar su correcto funcionamiento. Esto incluye la extracción, transformación y carga de datos en todo AWS.
+
+Trabajar en estrecha colaboración con el equipo de ingeniería de datos para comprender sus necesidades y desarrollar soluciones eficientes y sostenibles.
+
+Mantener los pipelines de datos actualizados y asegurar su estabilidad y eficiencia a medida que el volumen y la complejidad de los datos aumentan.
+
+Crear bots de Telegram para facilitar el acceso a los datos y la interacción con el equipo de ingeniería de datos.
+
+En resumen, mi trabajo como ingeniero de documentación y automatización de pipelines de datos implica asegurar que nuestros pipelines de datos sean fáciles de entender y utilizar, y que su correcto funcionamiento sea verificado y garantizado a través de la automatización y la documentación adecuadas.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
