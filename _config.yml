@@ -67,6 +67,7 @@ content:
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Como ingeniero de documentación de APIs, mis principales tareas incluyen:
+            
             Diseñar y crear documentación clara y detallada para APIs. Esto incluye especificar los distintos endpoints, parámetros de entrada y salida, códigos de error y ejemplos de uso.
             Testear y validar las APIs para asegurar su estabilidad y correcto funcionamiento. Para esto, utilizo herramientas como Postman y cURL para enviar solicitudes y verificar las respuestas.
             Trabajar en estrecha colaboración con el equipo de desarrollo de APIs para comprender y documentar sus funcionalidades y características.
