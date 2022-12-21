@@ -95,7 +95,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           Este curso me preparo para tener solidas bases en el lenguaje de programación Javascript asi como tambien en Html 5 y Css. Ademas trabajamos en equipo para entregar nuestro proyecto final. Otros tecnologias aprendidas fueron Boostrap y Vue.js.
 
-  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
