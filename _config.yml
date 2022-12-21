@@ -95,7 +95,7 @@ content:
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           Este curso me preparo para tener solidas bases en el lenguaje de programación Javascript asi como tambien en Html 5 y Css. Ademas trabajamos en equipo para entregar nuestro proyecto final. Otros tecnologias aprendidas fueron Boostrap y Vue.js.
-        
+        layout: list # Type of content section (list/text)
         title: Programa 111 Mil
         caption: 2017 - 2018
         sub_title: Programador
