@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   Creo que puedo sumar valor a cualquier equipo de ingeniería de datos gracias a mi experiencia y habilidades en automatización y documentación. Estoy dispuesto a trabajar duro y aprender constantemente para seguir mejorando en mi campo y contribuir al éxito de cualquier equipo en el que forme parte.
 content:
   
-  - title: Experience # Title for the section
+  - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -83,7 +83,7 @@ content:
             Mantener los pipelines de datos actualizados y asegurar su estabilidad y eficiencia a medida que el volumen y la complejidad de los datos aumentan.
             Crear bots de Telegram para facilitar el acceso a los datos y la interacción con el equipo de ingeniería de datos.
             En resumen, mi trabajo como ingeniero de documentación y automatización de pipelines de datos implica asegurar que nuestros pipelines de datos sean fáciles de entender y utilizar, y que su correcto funcionamiento sea verificado y garantizado a través de la automatización y la documentación adecuadas.
-  - title: Education # Title for the section
+  - title: Educacion # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -94,8 +94,6 @@ content:
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           Este curso me preparo para tener solidas bases en el lenguaje de programación Javascript asi como tambien en Html 5 y Css. Ademas trabajamos en equipo para entregar nuestro proyecto final. Otros tecnologias aprendidas fueron Boostrap y Vue.js.
-
-      - layout: left
         title: Instituto AMEMT
         caption: 2020 - 2021
         sub_title: Desarrollo Front End - Vue.js
@@ -103,7 +101,6 @@ content:
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           Este curso me preparo para tener solidas bases en el lenguaje de programación Javascript asi como tambien en Html 5 y Css. Ademas trabajamos en equipo para entregar nuestro proyecto final. Otros tecnologias aprendidas fueron Boostrap y Vue.js.        
-
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
