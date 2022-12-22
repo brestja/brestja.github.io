@@ -99,20 +99,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Instituto AMEMT
-        caption: 2020 - 2021
-        sub_title: Desarrollo Front End - Vue.js
+        title: Programa 111 Mil
+        caption: 2017 - 2018
+        sub_title: Programador
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Este curso me preparo para tener solidas bases en el lenguaje de programación Javascript asi como tambien en Html 5 y Css. Ademas trabajamos en equipo para entregar nuestro proyecto final. Otros tecnologias aprendidas fueron Boostrap y Vue.js.                
+         Curso dictado por el Ministerio de Trabajo con el objetivo de formar profesionales en tecnología, cubriendo temas como: Algoritmos, Programacion Orientada a Objetos(Java) y Base de Datos(MySql).                
   - title: Un poco mas a cerca de mi
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Football
-      - Chess
-      - Music
+      Aparte de mis intereses en programación y automatización otros intereses y hobbies son:
+      - Futbol
+      - Ajedrez
+      - Música
 
      # Look at this cool image  
      # ![Trees](images/landscape-trees.jpg "Trees")
