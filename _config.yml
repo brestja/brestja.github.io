@@ -106,7 +106,7 @@ content:
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
          Curso dictado por el Ministerio de Trabajo con el objetivo de formar profesionales en tecnología, cubriendo temas como: Algoritmos, Programación Orientada a Objetos(Java) y Base de Datos(MySql).                
-  - title: Un poco mas a cerca de mi
+  - title: Un poco más a cerca de mi
     layout: text
     content: | # this will include new lines to allow paragraphs
       Aparte de mis intereses en programación y automatización otros intereses y hobbies son:
