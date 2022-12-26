@@ -110,7 +110,7 @@ content:
       - Músic
 
      # Look at this cool image  
-      [Trees](images/Absences.png)
+      (images/Absences.png)
 
 # Footer
 footer_show_references: true
