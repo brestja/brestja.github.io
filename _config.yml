@@ -67,14 +67,9 @@ content:
         #quote: >
          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Como ingeniero de documentación de APIs, mis principales tareas incluyen:
-            
-            Diseñar y crear documentación clara y detallada para APIs. Esto incluye especificar los distintos endpoints, parámetros de entrada y salida, códigos de error y ejemplos de uso.
-            Testear y validar las APIs para asegurar su estabilidad y correcto funcionamiento. Para esto, utilizo herramientas como Postman y cURL para enviar solicitudes y verificar las respuestas.
-            Trabajar en estrecha colaboración con el equipo de desarrollo de APIs para comprender y documentar sus funcionalidades y características.
-            Mantener la documentación de las APIs actualizada y asegurar que sigue siendo precisa y relevante a medida que el código evoluciona.
-            Proporcionar soporte técnico a otros equipos que utilicen nuestras APIs y ayudarles a integrarlas en sus propios sistemas y proyectos.
-            En resumen, mi trabajo como ingeniero de documentación de APIs implica asegurar que nuestras APIs sean fáciles de usar y entender para otros equipos y desarrolladores, y que su correcto funcionamiento sea verificado y garantizado a través de pruebas y validaciones adecuadas.
+            As an API Documentation Engineer, my main tasks include:
+
+            Design and create clear and detailed documentation for APIs. This includes specifying the various endpoints, input and output parameters, error codes, and usage examples. Test and validate the APIs to ensure their stability and proper functioning. To do this I use tools like Postman and cURL to send requests and verify responses. Work closely with the API development team to understand and document its functionality and features. Keep your API documentation up to date and ensure it remains accurate and relevant as your code evolves.
             
             Como ingeniero de documentación y automatización de pipelines de datos, mis principales tareas incluyen:
             
