@@ -45,13 +45,12 @@ github_username: brestja
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: Sobre mi
+about_title: About Me
 about_profile_image: images/mifoto2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Soy un ingeniero en automatización y documentación con experiencia en el campo de la ingeniería de datos. Me especialicé en esta área a través de mi formación académica y mi experiencia profesional en varias empresas de tecnología.
-  Mi pasión por la automatización y la documentación comenzó cuando me di cuenta de la importancia que tienen estas habilidades en el desarrollo eficiente y sostenible de proyectos de ingeniería de datos. A través de mis estudios y mi trabajo, he adquirido una sólida comprensión de las herramientas y técnicas necesarias para automatizar procesos y crear documentación clara y detallada.
-  En mi actual trabajo, utilizo mis habilidades en automatización y documentación para ayudar a mi equipo a desarrollar proyectos de ingeniería de datos de manera eficiente y sostenible. Estoy siempre buscando maneras de mejorar nuestros procesos y ayudar a mis compañeros a entender mejor nuestro trabajo.
-  Creo que puedo sumar valor a cualquier equipo de ingeniería de datos gracias a mi experiencia y habilidades en automatización y documentación. Estoy dispuesto a trabajar duro y aprender constantemente para seguir mejorando en mi campo y contribuir al éxito de cualquier equipo en el que forme parte.
+  I am an automation and documentation engineer with experience in the field of data engineering. I specialized in this area through my academic training and my professional experience.
+  Through my studies and work, I have gained a solid understanding of the tools and techniques necessary to automate processes and create clear and detailed documentation.
+  I am willing to work hard and constantly learn to continue to improve in my field and contribute to the success of any team I am a part of.
   
   (Repositorios GitHub: [Automation](https://github.com/brestja/Automation/tree/main/N8N/Automations%20Demos), [Postman Collections](https://github.com/brestja/Postman_collections))
 content:
