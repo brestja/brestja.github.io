@@ -109,8 +109,9 @@ content:
       - Chess
       - Músic
 
-      Look at this cool image  
-about_profile_image: images/mifoto2.jpg
+     # Look at this cool image  
+     # ![Trees](images/landscape-trees.jpg "Trees")
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
