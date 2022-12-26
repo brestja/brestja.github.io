@@ -88,7 +88,7 @@ content:
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Este curso me preparo para tener solidas bases en el lenguaje de programación Javascript asi como también en Html 5 y Css. Otros tecnologías aprendidas fueron Boostrap y Vue.js.
+          This course prepares me to have a solid foundation in the Javascript programming language as well as Html 5 and Css. Other technologies learned were Bootstrap and Vue.js.
   - title: # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -99,7 +99,7 @@ content:
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-         Curso dictado por el Ministerio de Trabajo con el objetivo de formar profesionales en tecnología, cubriendo temas como: Algoritmos, Programación Orientada a Objetos(Java) y Base de Datos(MySql).                
+         Course given by the Ministry of Labor with the aim of training professionals in technology, covering topics such as: Algorithms, Object Oriented Programming (Java) and Database (MySql).                
   - title: Un poco más a cerca de mi
     layout: text
     content: | # this will include new lines to allow paragraphs
