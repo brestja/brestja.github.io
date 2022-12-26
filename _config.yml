@@ -110,7 +110,7 @@ content:
       - Músic
 
       Look at this cool image  
-      ![N8N](/brestja.github.io/images/mifoto2.jpg "N8N")
+      images/mifoto2.jpg
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
