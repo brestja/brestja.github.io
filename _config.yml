@@ -71,6 +71,7 @@ content:
             Design and create clear and detailed documentation for APIs. This includes specifying the various endpoints, input and output parameters, error codes, and usage examples. Test and validate the APIs to ensure their stability and proper functioning. To do this I use tools like Postman and cURL to send requests and verify responses. Work closely with the API development team to understand and document its functionality and features. Keep your API documentation up to date and ensure it remains accurate and relevant as your code evolves.
             
             (Repositorios GitHub: [Automation](https://github.com/brestja/Automation/tree/main/N8N/Automations%20Demos), [Postman Collections](https://github.com/brestja/Postman_collections))
+            
             As a Data Pipeline Automation and Documentation Engineer, my main tasks include:
             
             Design and create detailed documentation for the pipelines, this includes specifying the data flow, the different components, processes as well as the input and output parameters.
