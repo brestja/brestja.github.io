@@ -109,9 +109,8 @@ content:
       - Chess
       - Músic
 
-     # Look at this cool image  
-      [Trees](images/Absences.png)
-
+      Look at this cool image  
+      ![Trees](/MODERN-RESUME-THEME/brestja.github.io/images/Absences.png)
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
