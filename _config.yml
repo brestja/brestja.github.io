@@ -100,13 +100,13 @@ content:
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
          Course given by the Ministry of Labor with the aim of training professionals in technology, covering topics such as: Algorithms, Object Oriented Programming (Java) and Database (MySql).                
-  - title: Un poco más a cerca de mi
+  - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Aparte de mis intereses en programación y automatización otros intereses y hobbies son:
-      - Futbol
-      - Ajedrez
-      - Música
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Football
+      - Chess
+      - Músic
 
      # Look at this cool image  
      # ![Trees](images/landscape-trees.jpg "Trees")
