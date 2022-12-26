@@ -85,7 +85,7 @@ content:
       - layout: left
         title: Instituto AMEMT
         caption: 2020 - 2021
-        sub_title: Desarrollo Front End - Vue.js
+        sub_title: Front End Development- Vue.js
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -96,7 +96,7 @@ content:
       - layout: left
         title: Programa 111 Mil
         caption: 2017 - 2018
-        sub_title: Programador
+        sub_title: Programmer
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -104,20 +104,17 @@ content:
   - title: A Little More About My Work
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in automation some of my other interests and hobbies are:
-      - Football
-      - Chess
-      - Músic
+      This are some automation and documentation examples:
 
       [Absences](https://www.veed.io/view/b17b4467-1317-43dd-b0f1-61a64e303c23?panel=share) 
       
-      Look at this cool image 
+      An automation that notifies about absences in Slack.
       
       ![n8n](/images/Absences.png "Absences")
 
       [Absences](https://www.veed.io/view/b17b4467-1317-43dd-b0f1-61a64e303c23?panel=share) 
       
-      Look at this cool image 
+      An automation that notifies about absences in Slack.
       
       ![n8n](/images/Absences.png "Absences")
       
