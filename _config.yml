@@ -109,9 +109,8 @@ content:
       - Chess
       - Músic
 
-     # Look at this cool image  
-     # ![Trees](images/landscape-trees.jpg "Trees")
-
+      Look at this cool image  
+      ![n8n](/images/landscape-trees.jpg "n8n")
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
