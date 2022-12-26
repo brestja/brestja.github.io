@@ -110,7 +110,7 @@ content:
       - Músic
 
       Look at this cool image  
-      images/mifoto2.jpg
+about_profile_image: images/mifoto2.jpg
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
