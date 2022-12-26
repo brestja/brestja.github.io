@@ -104,7 +104,7 @@ content:
   - title: A Little More About My Work
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This are some automation and documentation examples:
+      This are some automations and documentations examples:
 
       [Absences](https://www.veed.io/view/b17b4467-1317-43dd-b0f1-61a64e303c23?panel=share) 
       
@@ -112,11 +112,11 @@ content:
       
       ![n8n](/images/Absences.png "Absences")
 
-      [Absences](https://www.veed.io/view/b17b4467-1317-43dd-b0f1-61a64e303c23?panel=share) 
+      [Telegram Bot](https://www.veed.io/view/34749d44-4a1b-4086-a05e-6d25db0a1063?panel=share) 
       
-      An automation that notifies about absences in Slack.
+      Telegram Bot for token prices from CoinGecko and CoinMarketCap.
       
-      ![n8n](/images/Absences.png "Absences")
+      ![n8n](/images/Telegram_Bot.png "Telegram Bot")
       
 # Footer
 footer_show_references: true
