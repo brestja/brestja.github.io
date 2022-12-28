@@ -117,6 +117,12 @@ content:
       Telegram Bot for token prices from CoinGecko and CoinMarketCap.
       
       ![bot](/images/Telegram.png "Telegram Bot")
+
+      [Generate Collection Postman](https://www.veed.io/view/61dc78b0-a1bb-4fa3-baf3-6a9fefb5f916?panel=share) 
+      
+      How to generate collections from .YAML format with Postman.
+      
+      ![Gif](/images/Generate Collection.gif "Postman")
       
 # Footer
 footer_show_references: true
